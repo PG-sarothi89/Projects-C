@@ -1,4 +1,5 @@
 #include <stdio.h>
+// making a simple calculator
 
 int main()
 {
